@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">puissance 4</string>
+    <string name="Continue">Continuer</string>
+    <string name="back">Retouner</string>
+    <string name="player_1">Joueur 1</string>
+    <string name="player_2">Joueur 2</string>
+    <string name="instructions">Joueur 1 et 2, entrez vos pseudos.</string>
+    <string name="victory">a gagné !</string>
+</resources>

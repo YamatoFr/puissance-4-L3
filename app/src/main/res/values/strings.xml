@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Connect 4</string>
+    <string name="victory">won !</string>
+    <string name="Continue">Continue</string>
+    <string name="back">Return</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="instructions">Player 1 and 2, enter your names.</string>
+</resources>
